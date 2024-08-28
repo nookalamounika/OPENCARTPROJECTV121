@@ -21,7 +21,8 @@ project location:cd C:\Users\user\eclipse-workspace\OPENCARTPROJECTV121 enter.
 
 pre-requisites:
 1.GIT Installation.
-2.create an account with git hub.
+2.create an account with git hub & create remote repository then capture url.
+repository url:  https://github.com/nookalamounika/OPENCARTPROJECTV121.git
 
 GIT & Github Workflow:
  round 1:
@@ -33,6 +34,33 @@ git config --global user.email "your email"
 
 3.Adding files/folders to staging/indexing
 a.git add -A   --> add all the files and folders to staging
-b.git add filename
-c.git add *.java
-d.git add foldername
+b.git add filename-->specific file
+c.git add *.java--->all the java file
+d.git add foldername-->specific folder.
+
+4.commit the code into local(git)repository.
+ git commit -m "commit message".
+
+5.connect local repository with remote repository(one time).
+ git remote add origin "https://github.com/nookalamounika/OPENCARTPROJECTV121.git".
+ 
+ 6. push the code into remote repository
+  git push origin master
+  token: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.
+  
+  
+  Round 2:
+  
+  1.Adding files/folders to staging/indexing                 
+  a.git add -A   --> add all the files and folders to staging
+  b.git add filename-->specific file                         
+  c.git add *.java--->all the java file                      
+ .d.git add foldername-->specific folder.                    
+                                                             
+  2.commit the code into local(git)repository.               
+   git commit -m "commit message".
+   
+   
+    3. push the code into remote repository                                    
+     git push origin master                         
+     token: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.

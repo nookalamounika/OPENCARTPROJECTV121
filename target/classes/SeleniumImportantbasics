@@ -48,7 +48,7 @@ d.git add foldername-->specific folder.
   git push origin master
   token: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.
   
-  
+-------------------------------------------------------------------------------------  
   Round 2:
   
   1.Adding files/folders to staging/indexing                 
@@ -63,4 +63,16 @@ d.git add foldername-->specific folder.
    
     3. push the code into remote repository                                    
      git push origin master                         
-     token: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.
+     token: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
+  ----------------------------------------------------------------------------------------------------------   
+     
+     
+  pull the files from remote repository:
+ --------------------------------------------------------------------------
+  git pull https://github.com/nookalamounika/OPENCARTPROJECTV121.git.
+  -------------------------------------------------------------------------
+  
+  --------------------------------------------------------------------------------------------
+  clone new repository to local system:
+  ------------------------------------------------------------- 
+          git clone "https://github.com/nookalamounika/Pearlthought.git"

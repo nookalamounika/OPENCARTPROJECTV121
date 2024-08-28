@@ -1,0 +1,38 @@
+selenium Grid: we have to open selenium dev in browser then open jar file of selenium grid:
+My version is folder is:C:\new project\drivers new\selenium Grid/selenium-server-4.23.1
+in command prome we enter the:
+C:\new project\drivers new\selenium Grid>java -jar selenium-server-4.23.1.jar standalone.
+after opening the command prome run the jar files and we get the local host link:
+http://192.168.130.95:4444.
+project location:C:\Users\user\eclipse-workspace\OPENCARTPROJECTV121
+
+
+run tests using maven pom.xml,from command prompt.
+1.install maven zip file OS level,download maven ,apache maven file
+2.This file in save in c drive location: C:\Users\user\Downloads\apache-maven-3.9.9-bin.zip\apache-maven-3.9.9\bin
+3.go to the This PC and right click,we see properties file,in this we click properies,and we can see advance system setting,click on that.
+4.click environment variables.
+5.system security,go for path and edit the path,we can paste the maven zip file path.
+6.Go to command prompt:1.mvn -version we enter then maven path is installed or not check
+7.If maven path installed then,project loction path we enter
+project location:cd C:\Users\user\eclipse-workspace\OPENCARTPROJECTV121 enter.
+8.then  dir enter
+9.mvn test: enter then execute the test cases in command prompt
+
+pre-requisites:
+1.GIT Installation.
+2.create an account with git hub.
+
+GIT & Github Workflow:
+ round 1:
+1. create a new local repository(one time)
+git init.
+2. provided user info to git repository(one time).
+git config --global user.name "your name"
+git config --global user.email "your email"
+
+3.Adding files/folders to staging/indexing
+a.git add -A   --> add all the files and folders to staging
+b.git add filename
+c.git add *.java
+d.git add foldername

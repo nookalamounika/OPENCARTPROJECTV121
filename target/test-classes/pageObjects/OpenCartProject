@@ -1,0 +1,16 @@
+Logging - record all the events in the form of text
+-----------POM - page Object model is the-------
+design pattern.
+Log Levels - All < Trace < Debug < Info < Warn < Error < Fatal < Off 
+Appenders- Where to generate logs (Console/File).
+Loggers - what type of logs generate(All < Trace < Debug < Info < Warn < Error < Fatal < Off)
+
+Thread count means:multiple test accomedate multiple memory locations,thread count 5 ,
+5 location will created,each location each test will executed,2-5,thread count is enough.
+------------xml file project level we created,not package level.
+
+config.property file where we have to create the common variables.
+
+
+
+

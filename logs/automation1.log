@@ -1,0 +1,12 @@
+2024-08-08 12:41:54.156 [main] INFO  testCases.TC001_AccountRegistrationTest(36) **************************Starting TC001_AccountRegistrationTest*************************************
+2024-08-08 12:41:54.264 [main] INFO  testCases.TC001_AccountRegistrationTest(36) ********Clicked on MyAccount Link************
+2024-08-08 12:41:54.681 [main] INFO  testCases.TC001_AccountRegistrationTest(36) ********Clicked on Registration Link************
+2024-08-08 12:41:54.683 [main] INFO  testCases.TC001_AccountRegistrationTest(36) ********providing customer Details************
+2024-08-08 12:41:56.327 [main] INFO  testCases.TC001_AccountRegistrationTest(36) ********Validating Expected message************
+2024-08-08 12:43:05.316 [main] INFO  testCases.TC001_AccountRegistrationTest(36) **************************Starting TC001_AccountRegistrationTest*************************************
+2024-08-08 12:43:05.434 [main] INFO  testCases.TC001_AccountRegistrationTest(36) ********Clicked on MyAccount Link************
+2024-08-08 12:43:05.949 [main] INFO  testCases.TC001_AccountRegistrationTest(36) ********Clicked on Registration Link************
+2024-08-08 12:43:05.951 [main] INFO  testCases.TC001_AccountRegistrationTest(36) ********providing customer Details************
+2024-08-08 12:43:07.258 [main] INFO  testCases.TC001_AccountRegistrationTest(36) ********Validating Expected message************
+2024-08-08 12:43:07.300 [main] ERROR testCases.TC001_AccountRegistrationTest(36) Test failed
+2024-08-08 12:43:07.301 [main] DEBUG testCases.TC001_AccountRegistrationTest(36) Debug logs

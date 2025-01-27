@@ -1,13 +1,390 @@
-2024-08-27 11:28:28.145 [main] INFO  testCases.TC001_AccountRegistrationTest(36) ********Validating Expected message************
-2024-08-27 11:28:28.231 [main] INFO  testCases.TC001_AccountRegistrationTest(36) ***************Finished TC001_AccountRegistrationTest*********************
-2024-08-27 11:28:30.771 [main] INFO  testCases.TC002_LoginTest(36) **********Starting TC002_LoginTest**************
-2024-08-27 11:28:32.129 [main] INFO  testCases.TC002_LoginTest(36) ********Finished TC002_LoginTest***************
-2024-08-28 13:20:13.177 [main] DEBUG org.testng.TestNG(36) suiteXmlPath: "C:\Users\user\eclipse-workspace\OPENCARTPROJECTV121\master.xml"
-2024-08-28 13:20:21.347 [main] INFO  testCases.TC001_AccountRegistrationTest(36) **************************Starting TC001_AccountRegistrationTest*************************************
-2024-08-28 13:20:21.463 [main] INFO  testCases.TC001_AccountRegistrationTest(36) ********Clicked on MyAccount Link************
-2024-08-28 13:20:22.049 [main] INFO  testCases.TC001_AccountRegistrationTest(36) ********Clicked on Registration Link************
-2024-08-28 13:20:22.051 [main] INFO  testCases.TC001_AccountRegistrationTest(36) ********providing customer Details************
-2024-08-28 13:20:23.418 [main] INFO  testCases.TC001_AccountRegistrationTest(36) ********Validating Expected message************
-2024-08-28 13:20:23.459 [main] INFO  testCases.TC001_AccountRegistrationTest(36) ***************Finished TC001_AccountRegistrationTest*********************
-2024-08-28 13:20:30.748 [main] INFO  testCases.TC002_LoginTest(36) **********Starting TC002_LoginTest**************
-2024-08-28 13:20:32.361 [main] INFO  testCases.TC002_LoginTest(36) ********Finished TC002_LoginTest***************
+2025-01-16 11:15:12.550 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+2025-01-16 11:15:12.571 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.sortMethods() took 8 ms.
+2025-01-16 11:15:12.572 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-16 11:15:12.573 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-16 11:15:12.574 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-16 11:15:12.574 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-16 11:15:12.575 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-16 11:15:12.575 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-16 11:15:12.577 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-16 11:15:12.577 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-16 11:15:12.577 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-16 11:15:12.578 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-01-16 11:15:12.578 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-16 11:15:12.578 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-16 11:15:12.579 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-16 11:15:12.579 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-16 11:15:12.580 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-16 11:15:12.580 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-16 11:15:12.581 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-16 11:15:12.581 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-16 11:15:12.581 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-16 11:15:12.581 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-16 11:15:12.589 [main] INFO  org.testng.internal.Utils(36) [TestNG] Running:
+  C:\Users\user\AppData\Local\Temp\testng-eclipse-1586600654\testng-customsuite.xml
+
+2025-01-16 11:15:12.619 [main] INFO  org.testng.internal.Utils(36) [Utils] DynamicGraphHelper.createDynamicGraph() took 8 ms.
+2025-01-16 11:15:12.819 [main] INFO  org.testng.internal.Utils(36) [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@15c25153: 32 ms
+2025-01-16 11:15:12.884 [main] INFO  org.testng.internal.Utils(36) [TestNG] Time taken by org.testng.reporters.jq.Main@7db82169: 65 ms
+2025-01-16 11:15:12.899 [main] INFO  org.testng.internal.Utils(36) [TestNG] Time taken by org.testng.reporters.FailedReporter@1643d68f: 15 ms
+2025-01-16 11:15:12.917 [main] INFO  org.testng.internal.Utils(36) [TestNG] Time taken by org.testng.reporters.XMLReporter@bcec031: 18 ms
+2025-01-16 11:15:12.931 [main] INFO  org.testng.internal.Utils(36) [TestNG] Time taken by org.testng.reporters.EmailableReporter2@2a39fe6a: 13 ms
+2025-01-16 11:15:12.939 [main] INFO  org.testng.internal.Utils(36) [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@592e843a: 8 ms
+2025-01-16 11:15:12.940 [main] INFO  org.testng.internal.Utils(36) [TestNG] Time taken by org.testng.internal.ExitCodeListener@1d1f7216: 1 ms
+2025-01-16 11:46:50.449 [main] DEBUG org.testng.TestNG(36) suiteXmlPath: "C:\Users\user\AppData\Local\Temp\testng-eclipse--325119228\testng-customsuite.xml"
+2025-01-16 11:46:51.011 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-16 11:46:51.014 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-01-16 11:46:51.018 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-16 11:46:51.019 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-16 11:46:51.020 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-16 11:46:51.021 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-16 11:46:51.022 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-16 11:46:51.022 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-16 11:46:51.030 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.collectMethodsByGroup() took 7 ms.
+2025-01-16 11:46:51.043 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.sortMethods() took 11 ms.
+2025-01-16 11:46:51.045 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-16 11:46:51.045 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-16 11:46:51.047 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-16 11:46:51.047 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-16 11:46:51.048 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-16 11:46:51.048 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-16 11:46:51.052 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-16 11:46:51.052 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-16 11:46:51.054 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-16 11:46:51.054 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-16 11:46:51.055 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-16 11:46:51.055 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-16 11:46:51.055 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-16 11:46:51.055 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-16 11:46:51.057 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-01-16 11:46:51.057 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-16 11:46:51.059 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-16 11:46:51.059 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-16 11:46:51.059 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-16 11:46:51.059 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-16 11:46:51.071 [main] INFO  org.testng.internal.Utils(36) [TestNG] Running:
+  C:\Users\user\AppData\Local\Temp\testng-eclipse--325119228\testng-customsuite.xml
+
+2025-01-16 11:46:51.109 [main] INFO  org.testng.internal.Utils(36) [Utils] DynamicGraphHelper.createDynamicGraph() took 13 ms.
+2025-01-16 11:46:51.358 [main] INFO  org.testng.internal.Utils(36) [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@2f9a01c1: 48 ms
+2025-01-16 11:46:51.427 [main] INFO  org.testng.internal.Utils(36) [TestNG] Time taken by org.testng.reporters.jq.Main@f6c03cb: 69 ms
+2025-01-16 11:46:51.448 [main] INFO  org.testng.internal.Utils(36) [TestNG] Time taken by org.testng.reporters.FailedReporter@6722db6e: 21 ms
+2025-01-16 11:46:51.461 [main] INFO  org.testng.internal.Utils(36) [TestNG] Time taken by org.testng.reporters.XMLReporter@741b3bc3: 13 ms
+2025-01-16 11:46:51.480 [main] INFO  org.testng.internal.Utils(36) [TestNG] Time taken by org.testng.reporters.EmailableReporter2@29ef6856: 19 ms
+2025-01-16 11:46:51.490 [main] INFO  org.testng.internal.Utils(36) [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@76ba13c: 9 ms
+2025-01-16 11:46:51.491 [main] INFO  org.testng.internal.Utils(36) [TestNG] Time taken by org.testng.internal.ExitCodeListener@eb6449b: 1 ms
+2025-01-16 12:20:47.570 [main] DEBUG org.testng.TestNG(36) suiteXmlPath: "C:\Users\user\AppData\Local\Temp\testng-eclipse-1392694834\testng-customsuite.xml"
+2025-01-16 12:20:48.098 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-16 12:20:48.103 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+2025-01-16 12:20:48.106 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-16 12:20:48.106 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-16 12:20:48.108 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-16 12:20:48.108 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-16 12:20:48.109 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-16 12:20:48.110 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-16 12:20:48.122 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.collectMethodsByGroup() took 10 ms.
+2025-01-16 12:20:48.140 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.sortMethods() took 18 ms.
+2025-01-16 12:20:48.143 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-16 12:20:48.145 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-16 12:20:48.146 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-16 12:20:48.147 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-16 12:20:48.148 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-16 12:20:48.148 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-16 12:20:48.153 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-16 12:20:48.161 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-16 12:20:48.163 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-16 12:20:48.163 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-16 12:20:48.165 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-16 12:20:48.165 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-16 12:20:48.165 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-16 12:20:48.165 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-16 12:20:48.167 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-01-16 12:20:48.168 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-16 12:20:48.170 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-16 12:20:48.170 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-16 12:20:48.171 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-16 12:20:48.171 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-16 12:20:48.187 [main] INFO  org.testng.internal.Utils(36) [TestNG] Running:
+  C:\Users\user\AppData\Local\Temp\testng-eclipse-1392694834\testng-customsuite.xml
+
+2025-01-16 12:20:48.231 [main] INFO  org.testng.internal.Utils(36) [Utils] DynamicGraphHelper.createDynamicGraph() took 11 ms.
+2025-01-16 12:20:48.434 [main] INFO  org.testng.internal.Utils(36) [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@2f9a01c1: 38 ms
+2025-01-16 12:20:48.515 [main] INFO  org.testng.internal.Utils(36) [TestNG] Time taken by org.testng.reporters.jq.Main@f6c03cb: 79 ms
+2025-01-16 12:20:48.537 [main] INFO  org.testng.internal.Utils(36) [TestNG] Time taken by org.testng.reporters.FailedReporter@6722db6e: 21 ms
+2025-01-16 12:20:48.549 [main] INFO  org.testng.internal.Utils(36) [TestNG] Time taken by org.testng.reporters.XMLReporter@741b3bc3: 12 ms
+2025-01-16 12:20:48.569 [main] INFO  org.testng.internal.Utils(36) [TestNG] Time taken by org.testng.reporters.EmailableReporter2@29ef6856: 20 ms
+2025-01-16 12:20:48.580 [main] INFO  org.testng.internal.Utils(36) [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@76ba13c: 11 ms
+2025-01-16 12:20:48.581 [main] INFO  org.testng.internal.Utils(36) [TestNG] Time taken by org.testng.internal.ExitCodeListener@eb6449b: 1 ms
+2025-01-16 12:21:25.511 [main] DEBUG org.testng.TestNG(36) suiteXmlPath: "C:\Users\user\eclipse-workspace\OPENCARTPROJECTV121\master.xml"
+2025-01-16 12:21:26.068 [main] INFO  org.testng.internal.Utils(36) [TestNG] Running:
+  C:\Users\user\eclipse-workspace\OPENCARTPROJECTV121\master.xml
+
+2025-01-16 12:21:34.793 [main] INFO  testCases.TC001_AccountRegistrationTest(36) **************************Starting TC001_AccountRegistrationTest*************************************
+2025-01-16 12:21:35.321 [main] INFO  testCases.TC001_AccountRegistrationTest(36) ********Clicked on MyAccount Link************
+2025-01-16 12:21:36.265 [main] INFO  testCases.TC001_AccountRegistrationTest(36) ********Clicked on Registration Link************
+2025-01-16 12:21:36.276 [main] INFO  testCases.TC001_AccountRegistrationTest(36) ********providing customer Details************
+2025-01-16 12:21:41.222 [main] INFO  testCases.TC001_AccountRegistrationTest(36) ********Validating Expected message************
+2025-01-16 12:21:41.403 [main] INFO  testCases.TC001_AccountRegistrationTest(36) ***************Finished TC001_AccountRegistrationTest*********************
+2025-01-16 12:21:45.574 [main] INFO  testCases.TC002_LoginTest(36) **********Starting TC002_LoginTest**************
+2025-01-16 12:21:49.052 [main] INFO  testCases.TC002_LoginTest(36) ********Finished TC002_LoginTest***************
+2025-01-16 12:27:59.385 [main] DEBUG org.testng.TestNG(36) suiteXmlPath: "C:\Users\user\AppData\Local\Temp\testng-eclipse--1352457920\testng-customsuite.xml"
+2025-01-16 12:28:00.174 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-01-16 12:28:00.182 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+2025-01-16 12:28:00.187 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-16 12:28:00.187 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-16 12:28:00.189 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-16 12:28:00.190 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-16 12:28:00.191 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-16 12:28:00.192 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-16 12:28:00.211 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.collectMethodsByGroup() took 13 ms.
+2025-01-16 12:28:00.231 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.sortMethods() took 19 ms.
+2025-01-16 12:28:00.237 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-16 12:28:00.239 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-01-16 12:28:00.243 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-16 12:28:00.243 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-16 12:28:00.246 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-16 12:28:00.246 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-16 12:28:00.254 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-16 12:28:00.255 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-16 12:28:00.257 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-16 12:28:00.258 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-16 12:28:00.261 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-16 12:28:00.262 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-16 12:28:00.262 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-16 12:28:00.263 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-16 12:28:00.267 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2025-01-16 12:28:00.268 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-01-16 12:28:00.272 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-16 12:28:00.272 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-16 12:28:00.273 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-16 12:28:00.273 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-16 12:28:00.304 [main] INFO  org.testng.internal.Utils(36) [TestNG] Running:
+  C:\Users\user\AppData\Local\Temp\testng-eclipse--1352457920\testng-customsuite.xml
+
+2025-01-16 12:28:00.389 [main] INFO  org.testng.internal.Utils(36) [Utils] DynamicGraphHelper.createDynamicGraph() took 25 ms.
+2025-01-16 12:28:00.770 [main] INFO  org.testng.internal.Utils(36) [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@2f9a01c1: 49 ms
+2025-01-16 12:28:00.842 [main] INFO  org.testng.internal.Utils(36) [TestNG] Time taken by org.testng.reporters.jq.Main@f6c03cb: 72 ms
+2025-01-16 12:28:00.863 [main] INFO  org.testng.internal.Utils(36) [TestNG] Time taken by org.testng.reporters.FailedReporter@6722db6e: 20 ms
+2025-01-16 12:28:00.889 [main] INFO  org.testng.internal.Utils(36) [TestNG] Time taken by org.testng.reporters.XMLReporter@741b3bc3: 25 ms
+2025-01-16 12:28:00.903 [main] INFO  org.testng.internal.Utils(36) [TestNG] Time taken by org.testng.reporters.EmailableReporter2@29ef6856: 13 ms
+2025-01-16 12:28:00.918 [main] INFO  org.testng.internal.Utils(36) [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@eb6449b: 15 ms
+2025-01-16 12:28:00.918 [main] INFO  org.testng.internal.Utils(36) [TestNG] Time taken by org.testng.internal.ExitCodeListener@7c351808: 0 ms
+2025-01-16 12:28:28.285 [main] DEBUG org.testng.TestNG(36) suiteXmlPath: "C:\Users\user\eclipse-workspace\OPENCARTPROJECTV121\master.xml"
+2025-01-16 12:28:29.327 [main] INFO  org.testng.internal.Utils(36) [TestNG] Running:
+  C:\Users\user\eclipse-workspace\OPENCARTPROJECTV121\master.xml
+
+2025-01-16 12:28:35.230 [main] INFO  testCases.TC001_AccountRegistrationTest(36) **************************Starting TC001_AccountRegistrationTest*************************************
+2025-01-16 12:28:36.027 [main] INFO  testCases.TC001_AccountRegistrationTest(36) ********Clicked on MyAccount Link************
+2025-01-16 12:28:36.856 [main] INFO  testCases.TC001_AccountRegistrationTest(36) ********Clicked on Registration Link************
+2025-01-16 12:28:36.865 [main] INFO  testCases.TC001_AccountRegistrationTest(36) ********providing customer Details************
+2025-01-16 12:28:41.424 [main] INFO  testCases.TC001_AccountRegistrationTest(36) ********Validating Expected message************
+2025-01-16 12:28:41.590 [main] INFO  testCases.TC001_AccountRegistrationTest(36) ***************Finished TC001_AccountRegistrationTest*********************
+2025-01-16 12:28:46.315 [main] INFO  testCases.TC002_LoginTest(36) **********Starting TC002_LoginTest**************
+2025-01-16 12:28:49.794 [main] INFO  testCases.TC002_LoginTest(36) ********Finished TC002_LoginTest***************
+2025-01-16 12:33:56.289 [main] DEBUG org.testng.TestNG(36) suiteXmlPath: "C:\Users\user\eclipse-workspace\OPENCARTPROJECTV121\master.xml"
+2025-01-16 12:33:56.867 [main] INFO  org.testng.internal.Utils(36) [TestNG] Running:
+  C:\Users\user\eclipse-workspace\OPENCARTPROJECTV121\master.xml
+
+2025-01-16 12:34:05.525 [main] INFO  testCases.TC001_AccountRegistrationTest(36) **************************Starting TC001_AccountRegistrationTest*************************************
+2025-01-16 12:34:06.444 [main] INFO  testCases.TC001_AccountRegistrationTest(36) ********Clicked on MyAccount Link************
+2025-01-16 12:34:08.217 [main] INFO  testCases.TC001_AccountRegistrationTest(36) ********Clicked on Registration Link************
+2025-01-16 12:34:08.226 [main] INFO  testCases.TC001_AccountRegistrationTest(36) ********providing customer Details************
+2025-01-16 12:34:13.302 [main] INFO  testCases.TC001_AccountRegistrationTest(36) ********Validating Expected message************
+2025-01-16 12:34:13.486 [main] INFO  testCases.TC001_AccountRegistrationTest(36) ***************Finished TC001_AccountRegistrationTest*********************
+2025-01-16 12:34:18.640 [main] INFO  testCases.TC002_LoginTest(36) **********Starting TC002_LoginTest**************
+2025-01-16 12:34:22.309 [main] INFO  testCases.TC002_LoginTest(36) ********Finished TC002_LoginTest***************
+2025-01-16 13:33:26.988 [main] DEBUG org.testng.TestNG(36) suiteXmlPath: "C:\Users\user\eclipse-workspace\OPENCARTPROJECTV121\master.xml"
+2025-01-16 13:33:27.283 [main] INFO  org.testng.internal.Utils(36) [TestNG] Running:
+  C:\Users\user\eclipse-workspace\OPENCARTPROJECTV121\master.xml
+
+2025-01-16 13:33:39.665 [main] INFO  testCases.TC001_AccountRegistrationTest(36) **************************Starting TC001_AccountRegistrationTest*************************************
+2025-01-16 13:33:39.838 [main] INFO  testCases.TC001_AccountRegistrationTest(36) ********Clicked on MyAccount Link************
+2025-01-16 13:33:40.869 [main] INFO  testCases.TC001_AccountRegistrationTest(36) ********Clicked on Registration Link************
+2025-01-16 13:33:40.872 [main] INFO  testCases.TC001_AccountRegistrationTest(36) ********providing customer Details************
+2025-01-16 13:33:43.914 [main] INFO  testCases.TC001_AccountRegistrationTest(36) ********Validating Expected message************
+2025-01-16 13:33:43.966 [main] INFO  testCases.TC001_AccountRegistrationTest(36) ***************Finished TC001_AccountRegistrationTest*********************
+2025-01-16 13:33:48.026 [main] INFO  testCases.TC002_LoginTest(36) **********Starting TC002_LoginTest**************
+2025-01-16 13:33:49.983 [main] INFO  testCases.TC002_LoginTest(36) ********Finished TC002_LoginTest***************
+2025-01-16 13:35:21.348 [main] DEBUG org.testng.TestNG(36) suiteXmlPath: "C:\Users\user\eclipse-workspace\OPENCARTPROJECTV121\master.xml"
+2025-01-16 13:35:21.887 [main] INFO  org.testng.internal.Utils(36) [TestNG] Running:
+  C:\Users\user\eclipse-workspace\OPENCARTPROJECTV121\master.xml
+
+2025-01-16 13:35:30.108 [main] INFO  testCases.TC001_AccountRegistrationTest(36) **************************Starting TC001_AccountRegistrationTest*************************************
+2025-01-16 13:35:30.549 [main] INFO  testCases.TC001_AccountRegistrationTest(36) ********Clicked on MyAccount Link************
+2025-01-16 13:35:32.391 [main] INFO  testCases.TC001_AccountRegistrationTest(36) ********Clicked on Registration Link************
+2025-01-16 13:35:32.402 [main] INFO  testCases.TC001_AccountRegistrationTest(36) ********providing customer Details************
+2025-01-16 13:35:38.314 [main] INFO  testCases.TC001_AccountRegistrationTest(36) ********Validating Expected message************
+2025-01-16 13:35:38.494 [main] INFO  testCases.TC001_AccountRegistrationTest(36) ***************Finished TC001_AccountRegistrationTest*********************
+2025-01-16 13:35:43.580 [main] INFO  testCases.TC002_LoginTest(36) **********Starting TC002_LoginTest**************
+2025-01-16 13:35:47.304 [main] INFO  testCases.TC002_LoginTest(36) ********Finished TC002_LoginTest***************
+2025-01-16 14:30:10.174 [main] DEBUG org.testng.TestNG(36) suiteXmlPath: "C:\Users\user\eclipse-workspace\OPENCARTPROJECTV121\master.xml"
+2025-01-16 14:30:11.082 [main] INFO  org.testng.internal.Utils(36) [TestNG] Running:
+  C:\Users\user\eclipse-workspace\OPENCARTPROJECTV121\master.xml
+
+2025-01-16 14:30:22.556 [main] INFO  testCases.TC001_AccountRegistrationTest(36) **************************Starting TC001_AccountRegistrationTest*************************************
+2025-01-16 14:30:22.816 [main] INFO  testCases.TC001_AccountRegistrationTest(36) ********Clicked on MyAccount Link************
+2025-01-16 14:30:24.263 [main] INFO  testCases.TC001_AccountRegistrationTest(36) ********Clicked on Registration Link************
+2025-01-16 14:30:24.274 [main] INFO  testCases.TC001_AccountRegistrationTest(36) ********providing customer Details************
+2025-01-16 14:30:29.729 [main] INFO  testCases.TC001_AccountRegistrationTest(36) ********Validating Expected message************
+2025-01-16 14:30:29.911 [main] INFO  testCases.TC001_AccountRegistrationTest(36) ***************Finished TC001_AccountRegistrationTest*********************
+2025-01-16 14:30:36.034 [main] INFO  testCases.TC002_LoginTest(36) **********Starting TC002_LoginTest**************
+2025-01-16 14:30:40.337 [main] INFO  testCases.TC002_LoginTest(36) ********Finished TC002_LoginTest***************
+2025-01-16 14:32:37.179 [main] DEBUG org.testng.TestNG(36) suiteXmlPath: "C:\Users\user\eclipse-workspace\OPENCARTPROJECTV121\master.xml"
+2025-01-16 14:32:37.832 [main] INFO  org.testng.internal.Utils(36) [TestNG] Running:
+  C:\Users\user\eclipse-workspace\OPENCARTPROJECTV121\master.xml
+
+2025-01-16 14:32:45.033 [main] INFO  testCases.TC001_AccountRegistrationTest(36) **************************Starting TC001_AccountRegistrationTest*************************************
+2025-01-16 14:32:45.886 [main] INFO  testCases.TC001_AccountRegistrationTest(36) ********Clicked on MyAccount Link************
+2025-01-16 14:32:46.750 [main] INFO  testCases.TC001_AccountRegistrationTest(36) ********Clicked on Registration Link************
+2025-01-16 14:32:46.761 [main] INFO  testCases.TC001_AccountRegistrationTest(36) ********providing customer Details************
+2025-01-16 14:32:52.464 [main] INFO  testCases.TC001_AccountRegistrationTest(36) ********Validating Expected message************
+2025-01-16 14:32:52.638 [main] INFO  testCases.TC001_AccountRegistrationTest(36) ***************Finished TC001_AccountRegistrationTest*********************
+2025-01-16 14:33:04.792 [main] INFO  testCases.TC002_LoginTest(36) **********Starting TC002_LoginTest**************
+2025-01-16 14:33:10.989 [main] INFO  testCases.TC002_LoginTest(36) ********Finished TC002_LoginTest***************
+2025-01-16 14:35:13.077 [main] DEBUG org.testng.TestNG(36) suiteXmlPath: "C:\Users\user\AppData\Local\Temp\testng-eclipse--737828760\testng-customsuite.xml"
+2025-01-16 14:35:13.577 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-01-16 14:35:13.583 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2025-01-16 14:35:13.586 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-16 14:35:13.586 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-16 14:35:13.587 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-16 14:35:13.587 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-16 14:35:13.588 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-16 14:35:13.588 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-16 14:35:13.600 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.collectMethodsByGroup() took 8 ms.
+2025-01-16 14:35:13.615 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.sortMethods() took 15 ms.
+2025-01-16 14:35:13.618 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-16 14:35:13.619 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-16 14:35:13.621 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-16 14:35:13.621 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-16 14:35:13.622 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-16 14:35:13.623 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-16 14:35:13.626 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-16 14:35:13.626 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-16 14:35:13.628 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-16 14:35:13.628 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-16 14:35:13.630 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-16 14:35:13.630 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-16 14:35:13.630 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-16 14:35:13.630 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-16 14:35:13.632 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-01-16 14:35:13.633 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-16 14:35:13.635 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-16 14:35:13.636 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-16 14:35:13.636 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-16 14:35:13.636 [main] INFO  org.testng.internal.Utils(36) [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-16 14:35:13.652 [main] INFO  org.testng.internal.Utils(36) [TestNG] Running:
+  C:\Users\user\AppData\Local\Temp\testng-eclipse--737828760\testng-customsuite.xml
+
+2025-01-16 14:35:13.729 [main] INFO  org.testng.internal.Utils(36) [Utils] DynamicGraphHelper.createDynamicGraph() took 26 ms.
+2025-01-16 14:35:14.081 [main] INFO  org.testng.internal.Utils(36) [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@2f9a01c1: 52 ms
+2025-01-16 14:35:14.149 [main] INFO  org.testng.internal.Utils(36) [TestNG] Time taken by org.testng.reporters.jq.Main@f6c03cb: 68 ms
+2025-01-16 14:35:14.163 [main] INFO  org.testng.internal.Utils(36) [TestNG] Time taken by org.testng.reporters.FailedReporter@6722db6e: 13 ms
+2025-01-16 14:35:14.176 [main] INFO  org.testng.internal.Utils(36) [TestNG] Time taken by org.testng.reporters.XMLReporter@741b3bc3: 13 ms
+2025-01-16 14:35:14.187 [main] INFO  org.testng.internal.Utils(36) [TestNG] Time taken by org.testng.reporters.EmailableReporter2@29ef6856: 11 ms
+2025-01-16 14:35:14.199 [main] INFO  org.testng.internal.Utils(36) [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@eb6449b: 12 ms
+2025-01-16 14:35:14.200 [main] INFO  org.testng.internal.Utils(36) [TestNG] Time taken by org.testng.internal.ExitCodeListener@7c351808: 0 ms
+2025-01-16 14:35:32.091 [main] DEBUG org.testng.TestNG(36) suiteXmlPath: "C:\Users\user\eclipse-workspace\OPENCARTPROJECTV121\master.xml"
+2025-01-16 14:35:32.795 [main] INFO  org.testng.internal.Utils(36) [TestNG] Running:
+  C:\Users\user\eclipse-workspace\OPENCARTPROJECTV121\master.xml
+
+2025-01-16 14:35:44.731 [main] INFO  testCases.TC001_AccountRegistrationTest(36) **************************Starting TC001_AccountRegistrationTest*************************************
+2025-01-16 14:35:45.122 [main] INFO  testCases.TC001_AccountRegistrationTest(36) ********Clicked on MyAccount Link************
+2025-01-16 14:35:46.294 [main] INFO  testCases.TC001_AccountRegistrationTest(36) ********Clicked on Registration Link************
+2025-01-16 14:35:46.306 [main] INFO  testCases.TC001_AccountRegistrationTest(36) ********providing customer Details************
+2025-01-16 14:35:51.324 [main] INFO  testCases.TC001_AccountRegistrationTest(36) ********Validating Expected message************
+2025-01-16 14:35:51.492 [main] INFO  testCases.TC001_AccountRegistrationTest(36) ***************Finished TC001_AccountRegistrationTest*********************
+2025-01-16 14:35:57.113 [main] INFO  testCases.TC002_LoginTest(36) **********Starting TC002_LoginTest**************
+2025-01-16 14:36:00.963 [main] INFO  testCases.TC002_LoginTest(36) ********Finished TC002_LoginTest***************
+2025-01-16 16:04:29.547 [main] DEBUG org.testng.TestNG(36) suiteXmlPath: "C:\Users\user\eclipse-workspace\OPENCARTPROJECTV121\master.xml"
+2025-01-16 16:04:30.439 [main] INFO  org.testng.internal.Utils(36) [TestNG] Running:
+  C:\Users\user\eclipse-workspace\OPENCARTPROJECTV121\master.xml
+
+2025-01-16 16:04:41.018 [main] INFO  testCases.TC001_AccountRegistrationTest(36) **************************Starting TC001_AccountRegistrationTest*************************************
+2025-01-16 16:04:41.434 [main] INFO  testCases.TC001_AccountRegistrationTest(36) ********Clicked on MyAccount Link************
+2025-01-16 16:04:43.350 [main] INFO  testCases.TC001_AccountRegistrationTest(36) ********Clicked on Registration Link************
+2025-01-16 16:04:43.360 [main] INFO  testCases.TC001_AccountRegistrationTest(36) ********providing customer Details************
+2025-01-16 16:04:48.610 [main] INFO  testCases.TC001_AccountRegistrationTest(36) ********Validating Expected message************
+2025-01-16 16:04:48.789 [main] INFO  testCases.TC001_AccountRegistrationTest(36) ***************Finished TC001_AccountRegistrationTest*********************
+2025-01-16 16:04:56.638 [main] INFO  testCases.TC002_LoginTest(36) **********Starting TC002_LoginTest**************
+2025-01-16 16:05:00.447 [main] INFO  testCases.TC002_LoginTest(36) ********Finished TC002_LoginTest***************
+2025-01-16 16:09:48.393 [main] DEBUG org.testng.TestNG(36) suiteXmlPath: "C:\Users\user\eclipse-workspace\OPENCARTPROJECTV121\master.xml"
+2025-01-16 16:09:49.032 [main] INFO  org.testng.internal.Utils(36) [TestNG] Running:
+  C:\Users\user\eclipse-workspace\OPENCARTPROJECTV121\master.xml
+
+2025-01-16 16:09:58.271 [main] INFO  testCases.TC001_AccountRegistrationTest(36) **************************Starting TC001_AccountRegistrationTest*************************************
+2025-01-16 16:09:58.553 [main] INFO  testCases.TC001_AccountRegistrationTest(36) ********Clicked on MyAccount Link************
+2025-01-16 16:10:00.057 [main] INFO  testCases.TC001_AccountRegistrationTest(36) ********Clicked on Registration Link************
+2025-01-16 16:10:00.065 [main] INFO  testCases.TC001_AccountRegistrationTest(36) ********providing customer Details************
+2025-01-16 16:10:06.189 [main] INFO  testCases.TC001_AccountRegistrationTest(36) ********Validating Expected message************
+2025-01-16 16:10:06.368 [main] INFO  testCases.TC001_AccountRegistrationTest(36) ***************Finished TC001_AccountRegistrationTest*********************
+2025-01-16 16:10:12.308 [main] INFO  testCases.TC002_LoginTest(36) **********Starting TC002_LoginTest**************
+2025-01-16 16:10:17.306 [main] INFO  testCases.TC002_LoginTest(36) ********Finished TC002_LoginTest***************
+2025-01-16 16:12:00.283 [main] DEBUG org.testng.TestNG(36) suiteXmlPath: "C:\Users\user\eclipse-workspace\OPENCARTPROJECTV121\master.xml"
+2025-01-16 16:12:01.036 [main] INFO  org.testng.internal.Utils(36) [TestNG] Running:
+  C:\Users\user\eclipse-workspace\OPENCARTPROJECTV121\master.xml
+
+2025-01-16 16:12:08.921 [main] INFO  testCases.TC001_AccountRegistrationTest(36) **************************Starting TC001_AccountRegistrationTest*************************************
+2025-01-16 16:12:09.291 [main] INFO  testCases.TC001_AccountRegistrationTest(36) ********Clicked on MyAccount Link************
+2025-01-16 16:12:10.434 [main] INFO  testCases.TC001_AccountRegistrationTest(36) ********Clicked on Registration Link************
+2025-01-16 16:12:10.442 [main] INFO  testCases.TC001_AccountRegistrationTest(36) ********providing customer Details************
+2025-01-16 16:12:15.966 [main] INFO  testCases.TC001_AccountRegistrationTest(36) ********Validating Expected message************
+2025-01-16 16:12:16.140 [main] INFO  testCases.TC001_AccountRegistrationTest(36) ***************Finished TC001_AccountRegistrationTest*********************
+2025-01-16 16:12:23.649 [main] INFO  testCases.TC002_LoginTest(36) **********Starting TC002_LoginTest**************
+2025-01-16 16:12:27.496 [main] INFO  testCases.TC002_LoginTest(36) ********Finished TC002_LoginTest***************
+2025-01-16 16:20:57.963 [main] DEBUG org.testng.TestNG(36) suiteXmlPath: "C:\Users\user\eclipse-workspace\OPENCARTPROJECTV121\master.xml"
+2025-01-16 16:20:58.602 [main] INFO  org.testng.internal.Utils(36) [TestNG] Running:
+  C:\Users\user\eclipse-workspace\OPENCARTPROJECTV121\master.xml
+
+2025-01-16 16:21:09.608 [main] INFO  testCases.TC001_AccountRegistrationTest(36) **************************Starting TC001_AccountRegistrationTest*************************************
+2025-01-16 16:21:10.061 [main] INFO  testCases.TC001_AccountRegistrationTest(36) ********Clicked on MyAccount Link************
+2025-01-16 16:21:11.751 [main] INFO  testCases.TC001_AccountRegistrationTest(36) ********Clicked on Registration Link************
+2025-01-16 16:21:11.762 [main] INFO  testCases.TC001_AccountRegistrationTest(36) ********providing customer Details************
+2025-01-16 16:21:16.947 [main] INFO  testCases.TC001_AccountRegistrationTest(36) ********Validating Expected message************
+2025-01-16 16:21:17.088 [main] INFO  testCases.TC001_AccountRegistrationTest(36) ***************Finished TC001_AccountRegistrationTest*********************
+2025-01-16 16:21:24.163 [main] INFO  testCases.TC002_LoginTest(36) **********Starting TC002_LoginTest**************
+2025-01-16 16:21:27.964 [main] INFO  testCases.TC002_LoginTest(36) ********Finished TC002_LoginTest***************
+2025-01-16 16:22:41.680 [main] DEBUG org.testng.TestNG(36) suiteXmlPath: "C:\Users\user\eclipse-workspace\OPENCARTPROJECTV121\master.xml"
+2025-01-16 16:22:42.395 [main] INFO  org.testng.internal.Utils(36) [TestNG] Running:
+  C:\Users\user\eclipse-workspace\OPENCARTPROJECTV121\master.xml
+
+2025-01-16 16:22:48.489 [main] INFO  testCases.TC001_AccountRegistrationTest(36) **************************Starting TC001_AccountRegistrationTest*************************************
+2025-01-16 16:22:48.861 [main] INFO  testCases.TC001_AccountRegistrationTest(36) ********Clicked on MyAccount Link************
+2025-01-16 16:22:49.670 [main] INFO  testCases.TC001_AccountRegistrationTest(36) ********Clicked on Registration Link************
+2025-01-16 16:22:49.675 [main] INFO  testCases.TC001_AccountRegistrationTest(36) ********providing customer Details************
+2025-01-16 16:22:54.641 [main] INFO  testCases.TC001_AccountRegistrationTest(36) ********Validating Expected message************
+2025-01-16 16:22:54.782 [main] INFO  testCases.TC001_AccountRegistrationTest(36) ***************Finished TC001_AccountRegistrationTest*********************
+2025-01-16 16:22:59.470 [main] INFO  testCases.TC002_LoginTest(36) **********Starting TC002_LoginTest**************
+2025-01-16 16:23:03.186 [main] INFO  testCases.TC002_LoginTest(36) ********Finished TC002_LoginTest***************
+2025-01-16 18:36:00.992 [main] DEBUG org.testng.TestNG(36) suiteXmlPath: "C:\Users\user\eclipse-workspace\OPENCARTPROJECTV121\master.xml"
+2025-01-16 18:36:01.340 [main] INFO  org.testng.internal.Utils(36) [TestNG] Running:
+  C:\Users\user\eclipse-workspace\OPENCARTPROJECTV121\master.xml
+
+2025-01-16 18:36:08.203 [main] INFO  testCases.TC001_AccountRegistrationTest(36) **************************Starting TC001_AccountRegistrationTest*************************************
+2025-01-16 18:36:08.372 [main] INFO  testCases.TC001_AccountRegistrationTest(36) ********Clicked on MyAccount Link************
+2025-01-16 18:36:09.064 [main] INFO  testCases.TC001_AccountRegistrationTest(36) ********Clicked on Registration Link************
+2025-01-16 18:36:09.066 [main] INFO  testCases.TC001_AccountRegistrationTest(36) ********providing customer Details************
+2025-01-16 18:36:11.013 [main] INFO  testCases.TC001_AccountRegistrationTest(36) ********Validating Expected message************
+2025-01-16 18:36:11.066 [main] INFO  testCases.TC001_AccountRegistrationTest(36) ***************Finished TC001_AccountRegistrationTest*********************
+2025-01-16 18:36:14.234 [main] INFO  testCases.TC002_LoginTest(36) **********Starting TC002_LoginTest**************
+2025-01-16 18:36:15.923 [main] INFO  testCases.TC002_LoginTest(36) ********Finished TC002_LoginTest***************
+2025-01-16 18:40:32.632 [main] DEBUG org.testng.TestNG(36) suiteXmlPath: "C:\Users\user\eclipse-workspace\OPENCARTPROJECTV121\master.xml"
+2025-01-16 18:40:32.979 [main] INFO  org.testng.internal.Utils(36) [TestNG] Running:
+  C:\Users\user\eclipse-workspace\OPENCARTPROJECTV121\master.xml
+
+2025-01-16 18:40:36.367 [main] INFO  testCases.TC001_AccountRegistrationTest(36) **************************Starting TC001_AccountRegistrationTest*************************************
+2025-01-16 18:40:36.547 [main] INFO  testCases.TC001_AccountRegistrationTest(36) ********Clicked on MyAccount Link************
+2025-01-16 18:40:37.153 [main] INFO  testCases.TC001_AccountRegistrationTest(36) ********Clicked on Registration Link************
+2025-01-16 18:40:37.159 [main] INFO  testCases.TC001_AccountRegistrationTest(36) ********providing customer Details************
+2025-01-16 18:40:39.083 [main] INFO  testCases.TC001_AccountRegistrationTest(36) ********Validating Expected message************
+2025-01-16 18:40:39.124 [main] INFO  testCases.TC001_AccountRegistrationTest(36) ***************Finished TC001_AccountRegistrationTest*********************
+2025-01-16 18:40:41.801 [main] INFO  testCases.TC002_LoginTest(36) **********Starting TC002_LoginTest**************
+2025-01-16 18:40:43.562 [main] INFO  testCases.TC002_LoginTest(36) ********Finished TC002_LoginTest***************
+2025-01-27 16:59:21.835 [main] DEBUG org.testng.TestNG(36) suiteXmlPath: "C:\Users\user\eclipse-workspace\OPENCARTPROJECTV121\master.xml"
+2025-01-27 16:59:28.234 [main] INFO  testCases.TC001_AccountRegistrationTest(36) **************************Starting TC001_AccountRegistrationTest*************************************
+2025-01-27 16:59:29.064 [main] INFO  testCases.TC001_AccountRegistrationTest(36) ********Clicked on MyAccount Link************
+2025-01-27 16:59:30.234 [main] INFO  testCases.TC001_AccountRegistrationTest(36) ********Clicked on Registration Link************
+2025-01-27 16:59:30.246 [main] INFO  testCases.TC001_AccountRegistrationTest(36) ********providing customer Details************
+2025-01-27 16:59:34.575 [main] INFO  testCases.TC001_AccountRegistrationTest(36) ********Validating Expected message************
+2025-01-27 16:59:34.741 [main] INFO  testCases.TC001_AccountRegistrationTest(36) ***************Finished TC001_AccountRegistrationTest*********************
+2025-01-27 16:59:39.631 [main] INFO  testCases.TC002_LoginTest(36) **********Starting TC002_LoginTest**************
+2025-01-27 16:59:43.390 [main] INFO  testCases.TC002_LoginTest(36) ********Finished TC002_LoginTest***************

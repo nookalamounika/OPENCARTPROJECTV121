@@ -15,8 +15,6 @@ public class HomePage extends BasePage {
 public HomePage(WebDriver driver) {
 
 super(driver);
-
-
 }
 
 
@@ -30,6 +28,52 @@ WebElement Registerlink;
 
 @FindBy(xpath="//a[text()='Login']")
 WebElement Loginlink;
+
+ @FindBy(xpath="//input[@placeholder='Search']")          
+ WebElement searchbox;                                    
+                                                          
+                                                          
+ @FindBy(xpath="//button[@class='btn btn-default btn-lg']")                
+ WebElement searchicon;                                   
+                                                          
+ @FindBy(xpath="//span[text()='Shopping Cart']")                                                         
+ WebElement shoppingcart;                       
+                                                
+ public void clickonshoppingcart() {            
+ shoppingcart.click();                          
+ }                                              
+ 
+ 
+public void enterproductname(String name) {                              
+                                                          
+ searchbox.sendKeys(name);                            
+                                                         
+ }                                                        
+                                                          
+  public void clickonsearchicon() {                      
+                        
+     searchicon.click();                     
+  }                      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

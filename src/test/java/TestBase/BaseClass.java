@@ -29,7 +29,7 @@ public class BaseClass {
  *duplicates will remove 
  * 
  * */
-  public static WebDriver driver;                                                                 
+  public static WebDriver driver;//2 drives created,1.is base class driver 2. extent report base class another driver....baseclass driver object related drivers are not same,there will be conflict,we need to webdriver also static.                                                                 
  public Logger logger;//log4j step                                                                                   
  public Properties p;                                                                                   
  
@@ -48,14 +48,14 @@ public class BaseClass {
 	  
 	  
 	  logger = LogManager.getLogger(this.getClass());
-	  /*selenium grid environment
-	  if(p.getProperty("execution_env").equalsIgnoreCase("remote")) {
+	  //selenium grid environment
+	 /* if(p.getProperty("execution_env").equalsIgnoreCase("remote")) {
 	  DesiredCapabilities capabilities = new DesiredCapabilities();
 	  //capabilities.setPlatform(Platform.WIN11);
 	  //capabilities.setBrowserName("chrome");
 	 //os 
 	 if(os.equalsIgnoreCase("windows")) {
-	    capabilities.setPlatform(Platform.WIN11);
+	    capabilities.setPlatform(Platform.WINDOWS);
 	 }
 	 else if(os.equalsIgnoreCase("mac")) { 
 	 capabilities.setPlatform(Platform.MAC); 
@@ -78,9 +78,9 @@ public class BaseClass {
 	 }
 	driver= new RemoteWebDriver(new URL("http://localhost:4444/wd/hub"),capabilities); 
 	 
-	 }*/
+	 }
 	 
-	 // if(p.getProperty("execution_env").equalsIgnoreCase("local")) {
+	 // if(p.getProperty("execution_env").equalsIgnoreCase("local")) {*/
 	  switch(br.toLowerCase()) 
 	  {
 	  case "chrome":driver=new ChromeDriver(); break;

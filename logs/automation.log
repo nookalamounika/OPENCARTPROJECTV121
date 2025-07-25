@@ -18,3 +18,15 @@
 2025-07-24 14:56:51.625 [main] INFO  testCases.TC001_AccountRegistrationTest(36) ***************Finished TC001_AccountRegistrationTest*********************
 2025-07-24 14:56:57.541 [main] INFO  testCases.TC002_LoginTest(36) **********Starting TC002_LoginTest**************
 2025-07-24 14:57:00.363 [main] INFO  testCases.TC002_LoginTest(36) ********Finished TC002_LoginTest***************
+2025-07-25 12:56:30.718 [main] DEBUG org.testng.TestNG(36) suiteXmlPath: "C:\Users\user\eclipse-workspace\OPENCARTPROJECTV121\master.xml"
+2025-07-25 12:56:31.430 [main] INFO  org.testng.internal.Utils(36) [TestNG] Running:
+  C:\Users\user\eclipse-workspace\OPENCARTPROJECTV121\master.xml
+
+2025-07-25 12:56:41.746 [main] INFO  testCases.TC001_AccountRegistrationTest(36) **************************Starting TC001_AccountRegistrationTest*************************************
+2025-07-25 12:56:42.430 [main] INFO  testCases.TC001_AccountRegistrationTest(36) ********Clicked on MyAccount Link************
+2025-07-25 12:56:43.200 [main] INFO  testCases.TC001_AccountRegistrationTest(36) ********Clicked on Registration Link************
+2025-07-25 12:56:43.210 [main] INFO  testCases.TC001_AccountRegistrationTest(36) ********providing customer Details************
+2025-07-25 12:56:47.720 [main] INFO  testCases.TC001_AccountRegistrationTest(36) ********Validating Expected message************
+2025-07-25 12:56:47.855 [main] INFO  testCases.TC001_AccountRegistrationTest(36) ***************Finished TC001_AccountRegistrationTest*********************
+2025-07-25 12:56:53.734 [main] INFO  testCases.TC002_LoginTest(36) **********Starting TC002_LoginTest**************
+2025-07-25 12:56:57.353 [main] INFO  testCases.TC002_LoginTest(36) ********Finished TC002_LoginTest***************
